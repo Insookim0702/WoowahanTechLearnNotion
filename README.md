@@ -11,6 +11,9 @@
 
 ```MongoDB```, ```Express framework```, ```Heroku```
 
+[External API]
+```Google Login API```
+
 
 
 ## 구현 기능
