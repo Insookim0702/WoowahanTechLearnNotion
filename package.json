@@ -10,6 +10,7 @@
     "@types/node": "^12.20.14",
     "@types/react": "^17.0.9",
     "@types/react-dom": "^17.0.6",
+    "express": "^4.17.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
@@ -39,5 +40,21 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "프로젝트 기간: 2021-06-01(화) ~ 2021-06-24(목) (총 4주)",
+  "main": "index.js",
+  "devDependencies": {
+    "body-parser": "^1.19.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Insookim0702/momsBike.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Insookim0702/momsBike/issues"
+  },
+  "homepage": "https://github.com/Insookim0702/momsBike#readme"
 }
