@@ -1,46 +1,34 @@
-# Getting Started with Create React App
+## [우아한 테크 러닝 4기 나만의 노션 만들기 프로젝트](https://woowabros.github.io/devrel/2021/04/20/woowa-techcamp_4th.html)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+프로젝트 기간: 2021-06-01(화) ~ 2021-06-24(목) (총 4주)
 
-## Available Scripts
+## 사용 기술
 
-In the project directory, you can run:
+[Front]
 
-### `npm start`
+`React`, `Typescript`, `SASS`,
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+[Back]
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+`MongoDB`, `Express framework`, `Heroku`
 
-### `npm test`
+[External API]
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+`Google Login API`
 
-### `npm run build`
+## 구현 기능
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 1. 사용자 문서 작성 및 저장 기능
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+-   개발 기간 : 2021-06-02(수) ~ 2021-06-13일(월)
+    ![image](https://user-images.githubusercontent.com/42515875/120399629-5df82480-c377-11eb-9a10-d125571a122a.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 2. 구글 로그인 기능
 
-### `npm run eject`
+-   개발 기간 : 2021-06-15(수) ~ 2021-06-20(일)
+    ![image](https://user-images.githubusercontent.com/42515875/120399709-82540100-c377-11eb-8d61-b7e9a4be097d.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### 3. 서비스 커버 페이지
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+-   개발 기간 : 2021-06-15(수) ~ 2021-06-20(일)
+    ![image](https://user-images.githubusercontent.com/42515875/120399438-fcd05100-c376-11eb-8365-848c73570a84.png)
